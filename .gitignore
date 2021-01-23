@@ -3,3 +3,4 @@ secrets.json
 run.sh
 static
 venv
+.vscode
